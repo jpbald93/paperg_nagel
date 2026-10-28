@@ -1,7 +1,8 @@
 # NagelLine — the Nagel line family in Lean 4 / Mathlib
 
 **Paper:** J. Bald, *Triangle centres in Lean 4: the Nagel line family and the symmedian and Brocard
-points* (2026). The paper states every theorem in prose with all hypotheses and reports the
+points* (2026), Zenodo, https://doi.org/10.5281/zenodo.23741528 (all versions; this version
+https://doi.org/10.5281/zenodo.23741529). The paper states every theorem in prose with all hypotheses and reports the
 verification. Companion repository: https://github.com/jpbald93/paperg_brocard.
 
 **Toolchain:** Lean `v4.33.1`, Mathlib `0df444a360eaa60ab8c11dca51a86af692955474` (see `lake-manifest.json`).
